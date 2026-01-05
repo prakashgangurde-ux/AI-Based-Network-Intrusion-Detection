@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 st.set_page_config(page_title="AI-Based Network Intrusion Detection - PortScan ", layout="wide")
-
+# --- TITLE ---
 st.title("🛡️ AI-Based Network Intrusion Detection ")
 st.markdown("286K samples | BENIGN + PortScan | 99% accuracy expected")
 
