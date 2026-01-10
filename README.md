@@ -48,7 +48,7 @@ Place the `Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv` file in the pro
 
 ### 2. **Run the Application**
 ```bash
-streamlit run nids_main.py
+streamlit run app.py
 ```
 
 The app will open at `http://localhost:8501`
@@ -249,8 +249,7 @@ Displays "TRAIN PORTSCAN DETECTOR" button, accuracy metric (99%+), confusion mat
 Input fields for Destination Port, Flow Duration, Forward/Backward Packets, and Flow Packets/s with prediction result.
 ![Live Detection](Screenshots/live_port_detector.png)
 
-### Screenshot 4: Feature Importance
-Horizontal bar chart ranking the 8 most important features for attack detection.
+
 ---
 
 **📧 For support or improvements, feel free to contribute!**
