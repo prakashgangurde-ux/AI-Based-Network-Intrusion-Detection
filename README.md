@@ -239,18 +239,15 @@ Open source for educational use.
 
 ## 🎓 Screenshots Guide
 
-### Screenshot 1: Main Dashboard
-Shows metrics (286K samples, 10 features, PortScan %), data preview table, and class distribution pie chart.
-![Dashboard](Screenshots/first_page.png)
-![Preview](Screenshots/Preview.png)
-
-### Screenshot 2: Model Training
+### Screenshot 1: Model Training
 Displays "TRAIN PORTSCAN DETECTOR" button, accuracy metric (99%+), confusion matrix heatmap.
 ![Model Training](Screenshots/train%20model.png)
 
-### Screenshot 3: Live Detection & AI Analysis
+### Screenshot 2: Live Detection & AI Analysis
 Input fields for network features, prediction result, and AI explanation.
 ![Live Detection](Screenshots/live_port_detector.png)
+![Live Detection](Screenshots/AI.png)
+
 
 ---
 
